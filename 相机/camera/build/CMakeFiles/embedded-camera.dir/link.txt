@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc  -Wall -O2 -O3 -DNDEBUG  -pthread CMakeFiles/embedded-camera.dir/src/main.c.o  -o embedded-camera ../lib/libcamera_modules.a ../lib/jpeg/lib/libjpeg.a ../lib/tslib/lib/libts.a -ldl 

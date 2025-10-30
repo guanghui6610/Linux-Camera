@@ -1,0 +1,6 @@
+/home/guanghui/linux/IMX6ULL/Project/camera/build/CMakeFiles/rebuild_cache.dir
+/home/guanghui/linux/IMX6ULL/Project/camera/build/CMakeFiles/embedded-camera.dir
+/home/guanghui/linux/IMX6ULL/Project/camera/build/CMakeFiles/edit_cache.dir
+/home/guanghui/linux/IMX6ULL/Project/camera/build/src/CMakeFiles/rebuild_cache.dir
+/home/guanghui/linux/IMX6ULL/Project/camera/build/src/CMakeFiles/camera_modules.dir
+/home/guanghui/linux/IMX6ULL/Project/camera/build/src/CMakeFiles/edit_cache.dir

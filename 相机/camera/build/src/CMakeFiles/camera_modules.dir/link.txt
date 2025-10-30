@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcamera_modules.a  CMakeFiles/camera_modules.dir/lcd.c.o CMakeFiles/camera_modules.dir/touchscreen.c.o CMakeFiles/camera_modules.dir/v4l2_camera.c.o CMakeFiles/camera_modules.dir/jpeg_handler.c.o CMakeFiles/camera_modules.dir/gallery.c.o
+/usr/bin/ranlib ../../lib/libcamera_modules.a

@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stat.h": "c",
+			"image_manage.h": "c",
+			"input-event-codes.h": "c",
+			"setjmp.h": "c"
+		}
+	}
+}
